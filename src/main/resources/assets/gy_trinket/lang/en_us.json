@@ -1,0 +1,24 @@
+{
+  "item.gy_trinket.shield_gy": "shield",
+  "item.gy_trinket.shield_reflect": "Reflect Shield",
+  "item.gy_trinket.shield_fire_ring": "Fire Ring Shield",
+  "item.gy_trinket.shield_amplifier": "Amplifier Shield",
+  "item.gy_trinket.iron_shield_gy": "iron_shield",
+
+  "block.gy_trinket.light_point_core_block_gy": "light_point_core_block",
+  "block.gy_trinket.light_point_base_block_gy": "light_point_base_block",
+  "block.gy_trinket.light_point_resonator_block_gy": "light_point_resonator_block",
+
+  "itemGroup.gy_trinket_tab": "gy_trinket",
+  "creativetab.shield_tab": "Light Point: Shields",
+  "tooltip.gy_trinket.shield.max_shield": "Max Shield: %d",
+  "tooltip.gy_trinket.shield.cooldown_time": "Shield Cooldown: %.1f seconds",
+  "tooltip.gy_trinket.shield.regen_percentage": "Shield Regen Rate: %.1f%%",
+  "tooltip.gy_trinket.shield.regen_interval": "Shield Regen Interval: %.1f seconds",
+  "tooltip.gy_trinket.shield.invulnerability_duration": "Invulnerability Duration: %.1f seconds",
+  "tooltip.gy_trinket.shield.gy.special": "Provides basic shield functionality with no special effects",
+  "tooltip.gy_trinket.shield_reflect.special": "Converts projectiles hitting you into fireballs to counterattack, and additionally reduces projectile damage received",
+  "tooltip.gy_trinket.shield_fire_ring.special": "Continuously damages non-player creatures nearby and causes wear to itself",
+  "tooltip.gy_trinket.shield_amplifier.special": "Lost shield value increases player damage",
+  "tooltip.gy_trinket.iron_shield_gy.special": "Iron-based basic shield, providing fundamental defensive capabilities"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "item": "minecraft:slime_block"
+    },
+    "W": {
+      "item": "minecraft:cyan_wool"
+    },
+    "G": {
+      "item": "gy_trinket:shield_gy"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    " S ",
+    "WGW",
+    " B "
+  ],
+  "result": {
+    "item": "gy_trinket:shield_reflect"
+  },
+  "show_notification": true
+}

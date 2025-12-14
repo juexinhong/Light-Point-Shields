@@ -1,0 +1,25 @@
+{
+  "item.gy_trinket.shield_gy": "护盾",
+  "item.gy_trinket.shield_reflect": "反射护盾",
+  "item.gy_trinket.shield_fire_ring": "火环护盾",
+  "item.gy_trinket.shield_amplifier": "增幅护盾",
+  "item.gy_trinket.iron_shield_gy": "铁护盾",
+
+  "block.gy_trinket.light_point_core_block_gy": "光点核心",
+  "block.gy_trinket.light_point_base_block_gy": "光点基座",
+  "block.gy_trinket.light_point_resonator_block_gy": "光点共振器",
+
+  "itemGroup.gy_trinket_tab": "gy_饰品",
+  "creativetab.shield_tab": "光点:护盾",
+  
+  "tooltip.gy_trinket.shield.max_shield": "最大护盾值: %d",
+  "tooltip.gy_trinket.shield.cooldown_time": "护盾冷却时间: %.1f秒",
+  "tooltip.gy_trinket.shield.regen_percentage": "护盾再生百分比: %.1f%%",
+  "tooltip.gy_trinket.shield.regen_interval": "护盾再生间隔: %.1f秒",
+  "tooltip.gy_trinket.shield.invulnerability_duration": "受击无敌时间: %.1f秒",
+  "tooltip.gy_trinket.shield.gy.special": "提供基础护盾功能，无特殊效果",
+  "tooltip.gy_trinket.shield_reflect.special": "将命中自身的弹射物,转化为火球还击,额外降低受到弹射物的伤害",
+  "tooltip.gy_trinket.shield_fire_ring.special": "持续伤害身边的非玩家生物,并对自身产生损耗",
+  "tooltip.gy_trinket.shield_amplifier.special": "损失的护盾值将增幅玩家伤害",
+  "tooltip.gy_trinket.iron_shield_gy.special": "铁制基础护盾，提供基础的防御能力"
+}

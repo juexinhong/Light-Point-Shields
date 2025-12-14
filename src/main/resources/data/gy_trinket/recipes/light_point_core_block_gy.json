@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_block"
+    },
+    "X": {
+      "item": "minecraft:redstone_lamp"
+    },
+    "Y": {
+      "item": "gy_trinket:light_point_resonator_block_gy"
+    },
+    "Z": {
+      "item": "minecraft:lapis_block"
+    },
+    "Q": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "pattern": [
+    "QXQ",
+    "QYQ",
+    "Z#Z"
+  ],
+  "result": {
+    "item": "gy_trinket:light_point_core_block_gy"
+  },
+  "show_notification": true
+}

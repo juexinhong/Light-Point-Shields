@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "gy_trinket:light_point_core_block_gy",
+    "gy_trinket:light_point_base_block_gy",
+    "gy_trinket:light_point_resonator_block_gy"
+  ]
+}

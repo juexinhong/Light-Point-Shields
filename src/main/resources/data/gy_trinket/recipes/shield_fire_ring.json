@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "F": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "G": {
+      "item": "gy_trinket:shield_gy"
+    }
+  },
+  "pattern": [
+    " F ",
+    "FGF",
+    " F "
+  ],
+  "result": {
+    "item": "gy_trinket:shield_fire_ring"
+  },
+  "show_notification": true
+}
